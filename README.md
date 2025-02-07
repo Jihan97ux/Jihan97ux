@@ -3,7 +3,7 @@
 ============================================================================================================================== -->
 
 ### About me
-- 🎓 Currently studying at ECE Pertamina University.
+- 🎓 Currently studying at Pertamina University.
 - 🔬 Interested in Machine Learning and Optimization Algorithms and Methods.
 - 📊 Passionate about data-driven decision-making.
 - 🌱 I’m currently learning to develop efficient algorithmic models for optimizing natural gas pipeline networks.
