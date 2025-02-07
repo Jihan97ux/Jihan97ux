@@ -12,8 +12,8 @@
 
 ### Skills
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+<p align="left" style="line-height: 0;">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 </a>
 <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
