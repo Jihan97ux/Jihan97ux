@@ -19,6 +19,7 @@
 <a href="https://ml-ops.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="MLOps" />
 </a>
+src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img 
 </p>
 
 ### Socials
